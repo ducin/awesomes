@@ -19,6 +19,8 @@ My personal list of valuable resources and people to follow.
   - callbacks, events, promises, async/await, RxJS
 - [_Tomasz Ducin: Async Functions Awaiting You_](https://www.youtube.com/watch?v=IYikhsDVvic)
   - deep-dive into async/await and its foundations
+- [_Dan Abramov: Hot Reloading with Time Travel_](https://www.youtube.com/watch?v=xsSnOQynTHs)
+  - introduced redux along with its devtools
 - [_Rich Harris - Rethinking reactivity_](https://www.youtube.com/watch?v=AdNJ3fydeao)
   - Svelte challenging React with a new approach to reactivity
 - [_David Khourshid: Simplifying Complex UIs with Finite Automata & Statecharts_](https://www.youtube.com/watch?v=RqTxtOXcv8Y)
@@ -68,7 +70,9 @@ and last but not least, [️️⚡️ WAT ⚡️](https://www.destroyallsoftware
 - [Michael Nygard](https://twitter.com/mtnygard)
 - [Dan Abramov](https://twitter.com/dan_abramov)
 - [André Staltz](https://twitter.com/andrestaltz)
+- [Franziska Hinkelmann](https://twitter.com/fhinkel)
 - [Rich Harris](https://twitter.com/Rich_Harris)
+- [Sarah Drasner](https://twitter.com/sarah_edo)
 - [Guillermo Rauch](https://twitter.com/rauchg)
 - [Matteo Collina](https://twitter.com/matteocollina)
 - [Max Koretskiy](https://twitter.com/maxkoretskyi)
