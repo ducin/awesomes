@@ -34,6 +34,8 @@ My personal list of valuable resources and people to follow.
 - [_Tomasz Ducin: The many meanings of Inversion of Control (IoC) in JavaScript_](https://www.youtube.com/watch?v=grF-BVK1vzM)
   - IoC as an approach
   - problems solved & various implementations in JavaScript
+- [_Pascal Precht: Angular Change Detection explained_](https://www.youtube.com/watch?v=aAMMXRwoPXI)
+  - change detection & NgZone
 - [_Eliran Eliassy: Bye bye NgModules_](https://www.youtube.com/watch?v=MwFl2Rd_RJ0)
   - design flaws behind NgModules in Angular
 
