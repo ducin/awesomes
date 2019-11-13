@@ -29,6 +29,7 @@ My personal list of valuable resources and people to follow.
   - low-level optimizations in JS frameworks (including object shapes)
 - [_Kris Kowal: A General Theory of Reactivity_](https://www.youtube.com/watch?v=2p51PE1MZ8U)
   - high-level description of reactivity
+  - [A General Theory of Reactivity (essay)](https://github.com/kriskowal/gtor)
 - [_Tomasz Ducin: Architect's Guide to Frontend Frameworks_](https://www.youtube.com/watch?v=HI2vFGxiwkM)
   - high-level comparison of frontend frameworks internals
 - [_Tomasz Ducin: The many meanings of Inversion of Control (IoC) in JavaScript_](https://www.youtube.com/watch?v=grF-BVK1vzM)
