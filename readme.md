@@ -39,6 +39,7 @@ My personal list of valuable resources and people to follow.
   - change detection & NgZone
 - [_Eliran Eliassy: Bye bye NgModules_](https://www.youtube.com/watch?v=MwFl2Rd_RJ0)
   - design flaws behind NgModules in Angular
+- [_Pascal Precht: Angular Elements_](https://www.youtube.com/watch?v=9zyq7FcIuvM)
 
 and last but not least, [️️⚡️ WAT ⚡️](https://www.destroyallsoftware.com/talks/wat)
 
