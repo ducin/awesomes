@@ -80,5 +80,6 @@ and last but not least, [️️⚡️ WAT ⚡️](https://www.destroyallsoftware
 - [Guillermo Rauch](https://twitter.com/rauchg)
 - [Matteo Collina](https://twitter.com/matteocollina)
 - [Max Koretskiy](https://twitter.com/maxkoretskyi)
+- and [me](https://twitter.com/tomasz_ducin) 😇
 
 and last but not least, [faces in things](https://twitter.com/FacesPics)
