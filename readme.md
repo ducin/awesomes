@@ -5,6 +5,7 @@ My personal list of valuable resources and people to follow:
 - [people](#people)
 - [videos](#videos)
 - [tools/apps](#tools)
+- [snippets](#snippets)
 
 ----
 
@@ -158,3 +159,58 @@ use within template files:
 - `¯\_(ツ)_/¯`
 - [emoji4fun](https://emojipedia.org): 🏦💰💸✨⚡🌩️🧟🔨👠🏳️‍🌈💀⚰️🥥🍕☃🎸
 - flags: 🇫🇷🇩🇪🇵🇱🇪🇸🇮🇹🇳🇱🇬🇧🇺🇸
+
+----
+
+# snippets
+
+VSCode's custom snippets:
+
+- `ctrl` + `shift` + `P` (windows)
+- `cmd` + `shift` + `P` (mac)
+
+then: _user snippets_ > `javascript.json` / `typescript.json` > add following:
+
+```json
+{
+	"Array-Reduce": {
+		"prefix": "reduce",
+		"body": [
+			"${1:COLLECTION}.reduce( (${3:ACC}, ${2:ITEM}) => ${5:NEWACC}, ${4:INIT} )",
+			"$0"
+		],
+		"description": "Call Array.reduce FTW!"
+	},
+	"Array-Reduce-Function": {
+		"prefix": "reduce-fn",
+		"body": [
+			"${1:COLLECTION}.reduce((${3:ACC}, ${2:ITEM}) => {",
+			"  return ${5:NEWACC}",
+			"}, ${4:INIT})",
+			"$0"
+		],
+		"description": "Call Array.reduce FTW!"
+	}
+}
+```
+
+or `typescriptreact.json` (TSX):
+
+```json
+	"FunctionComponent": {
+		"prefix": "fc",
+		"description": "typed function component",
+		"body": [
+			"import React from 'react';",
+			"",
+			"type ${1:Component}Props = {",
+			"  ${2:...}",
+			"}",
+			"",
+			"export const ${1:Component}: React.FC<${1:Component}Props> = (${4:props}) => {",
+			"  return <>${3:siema}</>",
+			"}",
+			"$0"
+		]
+	},
+```
