@@ -1,10 +1,61 @@
 # Awesomes
 
-My personal list of valuable resources and people to follow.
+My personal list of valuable resources and people to follow:
+
+- [people](#people)
+- [videos](#videos)
+- [tools/apps](#tools)
 
 ----
 
-## JavaScript Videos 📹
+# people
+
+👷🏼‍♂️👷🏾‍♀️
+
+## architecture
+
+- [Martin Fowler](https://martinfowler.com/bliki/)
+- [Mark Seemann](https://twitter.com/ploeh), [blog](https://blog.ploeh.dk)
+- [Mathias Verraes](https://twitter.com/mathiasverraes)
+- [Greg Young](https://twitter.com/gregyoung)
+- [Kevlin Henney](https://twitter.com/KevlinHenney)
+- [Dan North](https://twitter.com/tastapod)
+- [Udi Dahan](https://twitter.com/UdiDahan)
+- [Sam Newmann](https://twitter.com/samnewman)
+- [Michael Feathers](https://twitter.com/mfeathers)
+- [Daniel Bryant](https://twitter.com/danielbryantuk)
+- [Simon Brown](https://twitter.com/simonbrown)
+- [Eric Evans](https://twitter.com/ericevans0)
+- [Vaugn Vernon](https://twitter.com/VaughnVernon)
+- [Bartosz Milewski](https://twitter.com/BartoszMilewski)
+- [Dino Esposito](https://twitter.com/despos)
+- [Kent Beck](https://twitter.com/KentBeck)
+- [Anders Hejlsberg](https://twitter.com/ahejlsberg)
+- [Alberto Brandolini](https://twitter.com/ziobrando)
+- [Adam Dymitruk](https://twitter.com/adymitruk)
+- [Kelsey Hightower](https://twitter.com/kelseyhightower)
+- [Jimmy Boggard](https://twitter.com/jbogard)
+- [Tomasz Nurkiewicz](https://twitter.com/tnurkiewicz)
+- [Venkat Subramaniam](https://twitter.com/venkat_s)
+- [Bob Martin](https://twitter.com/unclebobmartin), [blog](http://cleancoder.com)
+- [Michael Nygard](https://twitter.com/mtnygard)
+- [Dan Abramov](https://twitter.com/dan_abramov)
+- [André Staltz](https://twitter.com/andrestaltz)
+- [Franziska Hinkelmann](https://twitter.com/fhinkel)
+- [Rich Harris](https://twitter.com/Rich_Harris)
+- [Sarah Drasner](https://twitter.com/sarah_edo)
+- [Guillermo Rauch](https://twitter.com/rauchg)
+- [Matteo Collina](https://twitter.com/matteocollina)
+- [Max Koretskiy](https://twitter.com/maxkoretskyi)
+- and [me](https://twitter.com/tomasz_ducin) 😇
+
+and last but not least, [faces in things](https://twitter.com/FacesPics)
+
+# Videos
+
+📹🤔
+
+## JavaScript
 
 - [_Vyacheslav Egorov: JavaScript Performance Through the Spyglass_](https://www.youtube.com/watch?v=r76ZjdzFExg)
   - JavaScript JIT
@@ -43,43 +94,67 @@ My personal list of valuable resources and people to follow.
 
 and last but not least, [️️⚡️ WAT ⚡️](https://www.destroyallsoftware.com/talks/wat)
 
-# architecture
+# tools
 
-## people 👷🏼‍♂️
+🔨🛠🔩
 
-- [Martin Fowler](https://martinfowler.com/bliki/)
-- [Mark Seemann](https://twitter.com/ploeh), [blog](https://blog.ploeh.dk)
-- [Mathias Verraes](https://twitter.com/mathiasverraes)
-- [Greg Young](https://twitter.com/gregyoung)
-- [Kevlin Henney](https://twitter.com/KevlinHenney)
-- [Dan North](https://twitter.com/tastapod)
-- [Udi Dahan](https://twitter.com/UdiDahan)
-- [Sam Newmann](https://twitter.com/samnewman)
-- [Michael Feathers](https://twitter.com/mfeathers)
-- [Daniel Bryant](https://twitter.com/danielbryantuk)
-- [Simon Brown](https://twitter.com/simonbrown)
-- [Eric Evans](https://twitter.com/ericevans0)
-- [Vaugn Vernon](https://twitter.com/VaughnVernon)
-- [Bartosz Milewski](https://twitter.com/BartoszMilewski)
-- [Dino Esposito](https://twitter.com/despos)
-- [Kent Beck](https://twitter.com/KentBeck)
-- [Anders Hejlsberg](https://twitter.com/ahejlsberg)
-- [Alberto Brandolini](https://twitter.com/ziobrando)
-- [Adam Dymitruk](https://twitter.com/adymitruk)
-- [Kelsey Hightower](https://twitter.com/kelseyhightower)
-- [Jimmy Boggard](https://twitter.com/jbogard)
-- [Tomasz Nurkiewicz](https://twitter.com/tnurkiewicz)
-- [Venkat Subramaniam](https://twitter.com/venkat_s)
-- [Bob Martin](https://twitter.com/unclebobmartin), [blog](http://cleancoder.com)
-- [Michael Nygard](https://twitter.com/mtnygard)
-- [Dan Abramov](https://twitter.com/dan_abramov)
-- [André Staltz](https://twitter.com/andrestaltz)
-- [Franziska Hinkelmann](https://twitter.com/fhinkel)
-- [Rich Harris](https://twitter.com/Rich_Harris)
-- [Sarah Drasner](https://twitter.com/sarah_edo)
-- [Guillermo Rauch](https://twitter.com/rauchg)
-- [Matteo Collina](https://twitter.com/matteocollina)
-- [Max Koretskiy](https://twitter.com/maxkoretskyi)
-- and [me](https://twitter.com/tomasz_ducin) 😇
+### online demos
 
-and last but not least, [faces in things](https://twitter.com/FacesPics)
+- http://stackblitz.com
+  - [stackblitz choosing console via iframe](https://i.imgur.com/kPvFjmV.png)
+- https://jsfiddle.net
+- https://codesandbox.io
+
+### fake online APIs
+
+- https://jsonplaceholder.typicode.com/comments?name_like=earum
+- https://dog.ceo/dog-api/documentation/
+  - https://dog.ceo/api/breeds/image/random
+- https://icanhazdadjoke.com/api
+- https://www.thecocktaildb.com/api.php, https://www.thecocktaildb.com/api/json/v1/1/search.php?s=margarita
+- https://ergast.com/api/f1/2018/results/1.json, https://ergast.com/mrd/
+
+### free stock photos
+
+- https://unsplash.com/
+- https://pixabay.com/
+- https://picjumbo.com/
+- https://www.pexels.com/
+
+### UI design, sketches, mockups
+
+- https://freebiesupply.com/free-sketch-websites/traders-social-network-concept-free-sketch/
+- refactoring UI (tips): https://twitter.com/i/moments/994601867987619840
+- https://uxmyths.com
+
+### placeholder images
+
+- https://loremipsum.io/21-of-the-best-placeholder-image-generators/ (!)
+- https://loremflickr.com/
+- https://placeimg.com
+
+### icons
+
+- [Material UI **ICONS**](https://www.materialui.co/icons)
+- https://simpleicons.org/
+- https://streamlineicons.com/free/
+
+### emmet
+
+extremely concise syntax that generates standard HTML (dev-friendly)
+
+- [syntax, docs](https://docs.emmet.io/abbreviations/syntax/)
+- VSCode has Emmet built-in.
+- emmet [cheat-sheet](https://docs.emmet.io/cheat-sheet/)
+
+use within template files:
+- `ul#list>li.item{item no. $}*5`
+- `ul>li*3>a>lorem10` (lorem ipsum)
+
+### some emojis
+
+- `(╯°□°)╯︵ ┻━┻`
+- `(┛◉Д◉)┛彡 ¡ɹǝƃuɐ¡`
+- `¯\_(ツ)_/¯`
+- [emoji4fun](https://emojipedia.org): 🏦💰💸✨⚡🌩️🧟🔨👠🏳️‍🌈💀⚰️🥥🍕☃🎸
+- flags: 🇫🇷🇩🇪🇵🇱🇪🇸🇮🇹🇳🇱🇬🇧🇺🇸
