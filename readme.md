@@ -164,6 +164,15 @@ use within template files:
 
 # snippets
 
+Improve your developer productivity with tailored code snippets used throughout your apps.
+
+**good practice**:
+
+- think about the order in which you think about your code. THe order in which you define piece by piece might make it more smooth - or more cumbersome - to achieve your goal. Define the order with `${N:ELEMENT}`, where `N` number defines the order and `ELEMENT` is a default name (likely to change), best describing what this piece is. Example: `${1:AGGR}`
+- Declare multiple bieces with the same number: `${1:ELEMENT} ${1:ELEMENT}` if you want both o change at the same time. Example below: React Component along with its props interface name
+
+**create**:
+
 VSCode's custom snippets:
 
 - `ctrl` + `shift` + `P` (windows)
