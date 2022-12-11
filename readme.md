@@ -42,6 +42,8 @@ My personal list of valuable resources and people to follow:
 - [Michael Nygard](https://twitter.com/mtnygard)
 - [Dan Abramov](https://twitter.com/dan_abramov)
 - [André Staltz](https://twitter.com/andrestaltz)
+- [Ryan Cavanaugh](https://twitter.com/SeaRyanC)
+- [Titian Cernicova Dragomir](https://twitter.com/TitianCernicova)
 - [Franziska Hinkelmann](https://twitter.com/fhinkel)
 - [Rich Harris](https://twitter.com/Rich_Harris)
 - [Sarah Drasner](https://twitter.com/sarah_edo)
