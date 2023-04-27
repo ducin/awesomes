@@ -58,8 +58,6 @@ and last but not least, [faces in things](https://twitter.com/FacesPics)
 
 📹🤔
 
-## JavaScript
-
 - [_Vyacheslav Egorov: JavaScript Performance Through the Spyglass_](https://www.youtube.com/watch?v=r76ZjdzFExg)
   - JavaScript JIT
   - what people usually get wrong
@@ -96,6 +94,10 @@ and last but not least, [faces in things](https://twitter.com/FacesPics)
 - [_Pascal Precht: Angular Elements_](https://www.youtube.com/watch?v=9zyq7FcIuvM)
 
 and last but not least, [️️⚡️ WAT ⚡️](https://www.destroyallsoftware.com/talks/wat)
+
+also:
+
+- [*The Problem with Time & Timezones*](https://www.youtube.com/watch?v=-5wpm-gesOY)
 
 # tools
 
