@@ -53,6 +53,7 @@ My personal list of valuable resources and people to follow:
 
 # books
 
+- [_Software Architecture for Developers - Simon Brown_](https://leanpub.com/software-architecture-for-developers)
 - [_Fundamentals of Software Architecture: An Engineering Approach - Neal Ford, Mark Richards_](https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451)
 - [_Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures - Neal Ford, Mark Richards__](https://www.amazon.com/Software-Architecture-Trade-Off-Distributed-Architectures/dp/1492086894)
 - [_Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith - Sam Newman_](https://www.amazon.com/Monolith-Microservices-Evolutionary-Patterns-Transform/dp/1492047848)
