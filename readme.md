@@ -3,60 +3,85 @@
 My personal list of valuable resources and people to follow:
 
 - [people](#people)
+- [books](#books)
 - [videos](#videos)
-- [tools/apps](#tools)
-- [snippets](#snippets)
+- [other resources](#other-resources)
 
 ----
 
 # people
 
-👷🏼‍♂️👷🏾‍♀️
+- [Martin Fowler](https://martinfowler.com/bliki/) - Software Architecture and Design
+- [Mark Seemann](https://twitter.com/ploeh), [blog](https://blog.ploeh.dk)
+- [Mathias Verraes](https://twitter.com/mathiasverraes) - Architecture
+- [Greg Young](https://twitter.com/gregyoung) - CQRS, ES, Architecture
+- [Kevlin Henney](https://twitter.com/KevlinHenney) - Software Design
+- [Udi Dahan](https://twitter.com/UdiDahan) - DDD, .Net
+- [Sam Newmann](https://twitter.com/samnewman) - MicroServices
+- [Michael Feathers](https://twitter.com/mfeathers) - Software Design, Working with Legacy
+- [Daniel Bryant](https://twitter.com/danielbryantuk) - MicroServices, DevOps, Cloud
+- [Simon Brown](https://twitter.com/simonbrown) - C4, Architecture
+- [Eric Evans](https://twitter.com/ericevans0) - DDD
+- [Vaugn Vernon](https://twitter.com/VaughnVernon) - DDD
+- [Luca Mezzalira](https://twitter.com/lucamezzalira) - MicroFrontends, Cloud
+- [Vlad Khononov](https://www.linkedin.com/in/vladikk/) - Software Design
+- [Dino Esposito](https://twitter.com/despos) - .Net, Software Design
+- [Alberto Brandolini](https://twitter.com/ziobrando) - Event Storming
+- [Kelsey Hightower](https://twitter.com/kelseyhightower) - Kubernetes, Cloud
+- [Jimmy Boggard](https://twitter.com/jbogard) - Architecture
+- [Tomasz Nurkiewicz](https://twitter.com/tnurkiewicz) - Reactive, Java
+- [Venkat Subramaniam](https://twitter.com/venkat_s) - Software Design
+- [Michael Nygard](https://twitter.com/mtnygard) - Software Practices
+- [Dan North](https://twitter.com/tastapod) - BDD, Agile
+- [Bartłomiej Słota](https://twitter.com/bartekslota) - DDD, Architecture
+- [Oskar Dudycz](https://www.linkedin.com/in/oskardudycz) - Event Sourcing, Event-driven Architecture
+- [Maciej MJ Jędrzejewski](https://www.linkedin.com/in/jedrzejewski-maciej/) - Architecture
+- [Jakub Nabrdalik](https://twitter.com/jnabrdalik) - Microservices, Architecture
+- [Mariusz Gil](https://www.linkedin.com/in/mariuszgil) - Event Storming, DDD
+- [Bartosz Milewski](https://twitter.com/BartoszMilewski) - FP, Category Theory
+- [Anders Hejlsberg](https://twitter.com/ahejlsberg) - Compilers
+- [Dan Abramov](https://twitter.com/dan_abramov) - React
+- [André Staltz](https://twitter.com/andrestaltz) - Reactivity
+- [Ryan Cavanaugh](https://twitter.com/SeaRyanC) - TypeScript
+- [Titian Cernicova Dragomir](https://twitter.com/TitianCernicova) - TypeScript
+- [Rich Harris](https://twitter.com/Rich_Harris) - Reactivity, Svelte
+- [Sarah Drasner](https://twitter.com/sarah_edo) - Frontend, Management
+- [Guillermo Rauch](https://twitter.com/rauchg) - React/Node, Cloud, SSR
+- [Matteo Collina](https://twitter.com/matteocollina) - Node.js, Performance
+- [Max Koretskiy](https://twitter.com/maxkoretskyi) - Frameworks in-depth
+- and [me](https://twitter.com/tomasz_ducin) 😇
+
+# books
+
+- [_Fundamentals of Software Architecture: An Engineering Approach - Neal Ford, Mark Richards_](https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451)
+- [_Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures - Neal Ford, Mark Richards__](https://www.amazon.com/Software-Architecture-Trade-Off-Distributed-Architectures/dp/1492086894)
+- [_Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith - Sam Newman_](https://www.amazon.com/Monolith-Microservices-Evolutionary-Patterns-Transform/dp/1492047848)
+- [_Building Microservices - Sam Newman_](https://www.amazon.pl/Building-Microservices-Sam-Newman/dp/1491950358)
+- [_Building Micro-Frontends: Scaling Teams and Projects, Empowering Developers - Luca Mezzalira_](https://www.amazon.pl/Building-Micro-Frontends-Projects-Empowering-Developers/dp/1492082996)
+- [_Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions - Gregor Hohpe, Bobby Woolf_](https://www.amazon.pl/Enterprise-Integration-Patterns-Designing-Deploying/dp/0321200683)
+- [_Implementing Domain-Driven Design - Vaughn Vernon_](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
+- [_Domain-Driven Design: Tackling Complexity in the Heart of Software - Eric Evans_](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
+- [_Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems - Martin Kleppmann_](https://www.amazon.pl/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+- [_Team Topologies: Organizing Business and Technology Teams for Fast Flow - Matthew Skelton, Manuel Pais_](https://www.amazon.com/gp/product/1942788819/ref=ewc_pr_img_2?smid=ATVPDKIKX0DER&psc=1)
+- [_Engineering Management for the Rest of Us - Sarah Drasner_](https://www.amazon.com/gp/product/B0BHX6NLGZ/ref=ewc_pr_img_6?smid=ATVPDKIKX0DER&psc=1)
+
+# videos
 
 ## architecture
 
-- [Martin Fowler](https://martinfowler.com/bliki/)
-- [Mark Seemann](https://twitter.com/ploeh), [blog](https://blog.ploeh.dk)
-- [Mathias Verraes](https://twitter.com/mathiasverraes)
-- [Greg Young](https://twitter.com/gregyoung)
-- [Kevlin Henney](https://twitter.com/KevlinHenney)
-- [Dan North](https://twitter.com/tastapod)
-- [Udi Dahan](https://twitter.com/UdiDahan)
-- [Sam Newmann](https://twitter.com/samnewman)
-- [Michael Feathers](https://twitter.com/mfeathers)
-- [Daniel Bryant](https://twitter.com/danielbryantuk)
-- [Simon Brown](https://twitter.com/simonbrown)
-- [Eric Evans](https://twitter.com/ericevans0)
-- [Vaugn Vernon](https://twitter.com/VaughnVernon)
-- [Bartosz Milewski](https://twitter.com/BartoszMilewski)
-- [Dino Esposito](https://twitter.com/despos)
-- [Kent Beck](https://twitter.com/KentBeck)
-- [Anders Hejlsberg](https://twitter.com/ahejlsberg)
-- [Alberto Brandolini](https://twitter.com/ziobrando)
-- [Adam Dymitruk](https://twitter.com/adymitruk)
-- [Kelsey Hightower](https://twitter.com/kelseyhightower)
-- [Jimmy Boggard](https://twitter.com/jbogard)
-- [Tomasz Nurkiewicz](https://twitter.com/tnurkiewicz)
-- [Venkat Subramaniam](https://twitter.com/venkat_s)
-- [Bob Martin](https://twitter.com/unclebobmartin), [blog](http://cleancoder.com)
-- [Michael Nygard](https://twitter.com/mtnygard)
-- [Dan Abramov](https://twitter.com/dan_abramov)
-- [André Staltz](https://twitter.com/andrestaltz)
-- [Ryan Cavanaugh](https://twitter.com/SeaRyanC)
-- [Titian Cernicova Dragomir](https://twitter.com/TitianCernicova)
-- [Franziska Hinkelmann](https://twitter.com/fhinkel)
-- [Rich Harris](https://twitter.com/Rich_Harris)
-- [Sarah Drasner](https://twitter.com/sarah_edo)
-- [Guillermo Rauch](https://twitter.com/rauchg)
-- [Matteo Collina](https://twitter.com/matteocollina)
-- [Max Koretskiy](https://twitter.com/maxkoretskyi)
-- and [me](https://twitter.com/tomasz_ducin) 😇
+- [_Martin Fowler: The Many Meanings of Event-driven Architecture_](https://www.youtube.com/watch?v=STKCRSUsyP0)
+- [_Greg Young: Event Sourcing_](https://www.youtube.com/watch?v=8JKjvY4etTY)
+- [_Martin Fowler: Introduction to NoSQL_](https://www.youtube.com/watch?v=qI_g07C_Q5I)
+- [_Matt Ranney: What I Wish I Had Known Before Scaling Uber to 1000 Services_](https://www.youtube.com/watch?v=kb-m2fasdDY)
+- [_Kevlin Henney: Software Is Details_](https://www.youtube.com/watch?v=kX0prJklhUE)
+- [_Venkat Subramaniam: Don't Walk Away from Complexity, Run_](https://www.youtube.com/watch?v=4MEKu2TcEHM)
+- [_Sam Newman & Martin Fowler: When To Use Microservices (And When Not To!)_](https://www.youtube.com/watch?v=GBTdnfD6s5Q)
+- [_Vaughn Vernon: DDD Today - Modeling Uncertainty_](https://www.youtube.com/watch?v=8Y-XPlXOWoA)
+- [_Alberto Brandolini: Event Storming_](https://www.youtube.com/watch?v=mLXQIYEwK24)
+- [_Greg Young: The Long Sad History of MicroServices TM_](https://www.youtube.com/watch?v=MjIfWe6bn40&t=584s)
+- [_Sam Newman: You Keep Using That Word_](https://www.youtube.com/watch?v=rZxIzrjvSGg)
 
-and last but not least, [faces in things](https://twitter.com/FacesPics)
-
-# Videos
-
-📹🤔
+## frontend
 
 - [_Vyacheslav Egorov: JavaScript Performance Through the Spyglass_](https://www.youtube.com/watch?v=r76ZjdzFExg)
   - JavaScript JIT
@@ -69,8 +94,6 @@ and last but not least, [faces in things](https://twitter.com/FacesPics)
 - [_Tomasz Ducin: 5 Architectures of Asynchronous JavaScript_](https://www.youtube.com/watch?v=YXo4YOLDK1k)
   - a walkthrough over various JS async APIs
   - callbacks, events, promises, async/await, RxJS
-- [_Tomasz Ducin: Async Functions Awaiting You_](https://www.youtube.com/watch?v=IYikhsDVvic)
-  - deep-dive into async/await and its foundations
 - [_Dan Abramov: Hot Reloading with Time Travel_](https://www.youtube.com/watch?v=xsSnOQynTHs)
   - introduced redux along with its devtools
 - [_Rich Harris - Rethinking reactivity_](https://www.youtube.com/watch?v=AdNJ3fydeao)
@@ -87,143 +110,11 @@ and last but not least, [faces in things](https://twitter.com/FacesPics)
 - [_Tomasz Ducin: The many meanings of Inversion of Control (IoC) in JavaScript_](https://www.youtube.com/watch?v=grF-BVK1vzM)
   - IoC as an approach
   - problems solved & various implementations in JavaScript
-- [_Pascal Precht: Angular Change Detection explained_](https://www.youtube.com/watch?v=aAMMXRwoPXI)
-  - change detection & NgZone
-- [_Eliran Eliassy: Bye bye NgModules_](https://www.youtube.com/watch?v=MwFl2Rd_RJ0)
-  - design flaws behind NgModules in Angular
-- [_Pascal Precht: Angular Elements_](https://www.youtube.com/watch?v=9zyq7FcIuvM)
 
 and last but not least, [️️⚡️ WAT ⚡️](https://www.destroyallsoftware.com/talks/wat)
 
-also:
+# other resources
 
-- [*The Problem with Time & Timezones*](https://www.youtube.com/watch?v=-5wpm-gesOY)
-
-# tools
-
-🔨🛠🔩
-
-### online demos
-
-- http://stackblitz.com
-  - [stackblitz choosing console via iframe](https://i.imgur.com/kPvFjmV.png)
-- https://jsfiddle.net
-- https://codesandbox.io
-
-### fake online APIs
-
-- https://jsonplaceholder.typicode.com/comments?name_like=earum
-- https://dog.ceo/dog-api/documentation/
-  - https://dog.ceo/api/breeds/image/random
-- https://icanhazdadjoke.com/api
-- https://www.thecocktaildb.com/api.php, https://www.thecocktaildb.com/api/json/v1/1/search.php?s=margarita
-- https://ergast.com/api/f1/2018/results/1.json, https://ergast.com/mrd/
-
-### free stock photos
-
-- https://unsplash.com/
-- https://pixabay.com/
-- https://picjumbo.com/
-- https://www.pexels.com/
-
-### UI design, sketches, mockups
-
-- https://freebiesupply.com/free-sketch-websites/traders-social-network-concept-free-sketch/
-- refactoring UI (tips): https://twitter.com/i/moments/994601867987619840
-- https://uxmyths.com
-
-### placeholder images
-
-- https://loremipsum.io/21-of-the-best-placeholder-image-generators/ (!)
-- https://loremflickr.com/
-- https://placeimg.com
-
-### icons
-
-- [Material UI **ICONS**](https://www.materialui.co/icons)
-- https://simpleicons.org/
-- https://streamlineicons.com/free/
-
-### emmet
-
-extremely concise syntax that generates standard HTML (dev-friendly)
-
-- [syntax, docs](https://docs.emmet.io/abbreviations/syntax/)
-- VSCode has Emmet built-in.
-- emmet [cheat-sheet](https://docs.emmet.io/cheat-sheet/)
-
-use within template files:
-- `ul#list>li.item{item no. $}*5`
-- `ul>li*3>a>lorem10` (lorem ipsum)
-
-### some emojis
-
-- `(╯°□°)╯︵ ┻━┻`
-- `(┛◉Д◉)┛彡 ¡ɹǝƃuɐ¡`
-- `¯\_(ツ)_/¯`
-- [emoji4fun](https://emojipedia.org): 🏦💰💸✨⚡🌩️🧟🔨👠🏳️‍🌈💀⚰️🥥🍕☃🎸
-- flags: 🇫🇷🇩🇪🇵🇱🇪🇸🇮🇹🇳🇱🇬🇧🇺🇸
-
-----
-
-# snippets
-
-Improve your developer productivity with tailored code snippets used throughout your apps.
-
-**good practice**:
-
-- think about the order in which you think about your code. THe order in which you define piece by piece might make it more smooth - or more cumbersome - to achieve your goal. Define the order with `${N:ELEMENT}`, where `N` number defines the order and `ELEMENT` is a default name (likely to change), best describing what this piece is. Example: `${1:AGGR}`
-- Declare multiple bieces with the same number: `${1:ELEMENT} ${1:ELEMENT}` if you want both o change at the same time. Example below: React Component along with its props interface name
-
-**create**:
-
-VSCode's custom snippets:
-
-- `ctrl` + `shift` + `P` (windows)
-- `cmd` + `shift` + `P` (mac)
-
-then: _user snippets_ > `javascript.json` / `typescript.json` > add following:
-
-```json
-{
-	"Array-Reduce": {
-		"prefix": "reduce",
-		"body": [
-			"${1:COLLECTION}.reduce( (${3:ACC}, ${2:ITEM}) => ${5:NEWACC}, ${4:INIT} )",
-			"$0"
-		],
-		"description": "Call Array.reduce FTW!"
-	},
-	"Array-Reduce-Function": {
-		"prefix": "reduce-fn",
-		"body": [
-			"${1:COLLECTION}.reduce((${3:ACC}, ${2:ITEM}) => {",
-			"  return ${5:NEWACC}",
-			"}, ${4:INIT})",
-			"$0"
-		],
-		"description": "Call Array.reduce FTW!"
-	}
-}
-```
-
-or `typescriptreact.json` (TSX):
-
-```json
-	"FunctionComponent": {
-		"prefix": "fc",
-		"description": "typed function component",
-		"body": [
-			"import React from 'react';",
-			"",
-			"type ${1:Component}Props = {",
-			"  ${2:...}",
-			"}",
-			"",
-			"export const ${1:Component}: React.FC<${1:Component}Props> = (${4:props}) => {",
-			"  return <>${3:siema}</>",
-			"}",
-			"$0"
-		]
-	},
-```
+- [Goto Conferences](https://www.youtube.com/@GOTO-)
+- [Better Software Design - 🇵🇱 only](https://bettersoftwaredesign.pl/)
+- [Architecture Weekly Newsletter](https://www.architecture-weekly.com/)
