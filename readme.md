@@ -81,20 +81,18 @@ My personal list of valuable resources and people to follow:
 - [_Alberto Brandolini: Event Storming_](https://www.youtube.com/watch?v=mLXQIYEwK24)
 - [_Greg Young: The Long Sad History of MicroServices TM_](https://www.youtube.com/watch?v=MjIfWe6bn40&t=584s)
 - [_Sam Newman: You Keep Using That Word_](https://www.youtube.com/watch?v=rZxIzrjvSGg)
+- [_Daniel Terhorst-North: The Best Programmer I Know_](https://www.youtube.com/watch?v=tgaKAF_eiOg)
 
 ## frontend
 
 - [_Vyacheslav Egorov: JavaScript Performance Through the Spyglass_](https://www.youtube.com/watch?v=r76ZjdzFExg)
-  - JavaScript JIT
-  - what people usually get wrong
+  - JavaScript JIT, what people usually get wrong
 - [_Philip Roberts: What the heck is the event loop anyway?_](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
-  - Async internals
-  - event loop
+  - Async internals, event loop
 - [Jake Archibald: In The Loop](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
   - Async revisited, including RAF
 - [_Tomasz Ducin: 5 Architectures of Asynchronous JavaScript_](https://www.youtube.com/watch?v=YXo4YOLDK1k)
-  - a walkthrough over various JS async APIs
-  - callbacks, events, promises, async/await, RxJS
+  - a walkthrough over various JS async APIs: callbacks, events, promises, async/await, RxJS
 - [_Dan Abramov: Hot Reloading with Time Travel_](https://www.youtube.com/watch?v=xsSnOQynTHs)
   - introduced redux along with its devtools
 - [_Rich Harris - Rethinking reactivity_](https://www.youtube.com/watch?v=AdNJ3fydeao)
@@ -104,13 +102,13 @@ My personal list of valuable resources and people to follow:
 - [_Maxim Koretskyi: A sneak peek into super optimized code in JS frameworks_](https://www.youtube.com/watch?v=_VHNTC67NR8)
   - low-level optimizations in JS frameworks (including object shapes)
 - [_Kris Kowal: A General Theory of Reactivity_](https://www.youtube.com/watch?v=2p51PE1MZ8U)
-  - high-level description of reactivity
-  - [A General Theory of Reactivity (essay)](https://github.com/kriskowal/gtor)
+  - high-level description of reactivity, [A General Theory of Reactivity (essay)](https://github.com/kriskowal/gtor)
 - [_Tomasz Ducin: Architect's Guide to Frontend Frameworks_](https://www.youtube.com/watch?v=HI2vFGxiwkM)
   - high-level comparison of frontend frameworks internals
 - [_Tomasz Ducin: The many meanings of Inversion of Control (IoC) in JavaScript_](https://www.youtube.com/watch?v=grF-BVK1vzM)
-  - IoC as an approach
-  - problems solved & various implementations in JavaScript
+  - IoC as an approach, problems solved & various implementations in JavaScript
+- [_Ben Holmes: React server components from scratch!_](https://www.youtube.com/watch?v=MaebEqhZR84)
+- [_Delba Oliveira: React visually explained: 'use client'_](https://www.youtube.com/watch?v=eO51VVCpTk0)
 
 and last but not least, [️️⚡️ WAT ⚡️](https://www.destroyallsoftware.com/talks/wat)
 
