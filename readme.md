@@ -39,15 +39,15 @@ My personal list of valuable resources and people to follow:
 - [Jakub Nabrdalik](https://twitter.com/jnabrdalik) - Microservices, Architecture
 - [Mariusz Gil](https://www.linkedin.com/in/mariuszgil) - Event Storming, DDD
 - [Bartosz Milewski](https://twitter.com/BartoszMilewski) - FP, Category Theory
-- [Anders Hejlsberg](https://twitter.com/ahejlsberg) - Compilers
-- [Dan Abramov](https://twitter.com/dan_abramov) - React
 - [André Staltz](https://twitter.com/andrestaltz) - Reactivity
-- [Ryan Cavanaugh](https://twitter.com/SeaRyanC) - TypeScript
-- [Titian Cernicova Dragomir](https://twitter.com/TitianCernicova) - TypeScript
 - [Rich Harris](https://twitter.com/Rich_Harris) - Reactivity, Svelte
 - [Sarah Drasner](https://twitter.com/sarah_edo) - Frontend, Management
 - [Guillermo Rauch](https://twitter.com/rauchg) - React/Node, Cloud, SSR
 - [Matteo Collina](https://twitter.com/matteocollina) - Node.js, Performance
+- [Anders Hejlsberg](https://twitter.com/ahejlsberg) - Compilers
+- [Ryan Cavanaugh](https://twitter.com/SeaRyanC), [Matt Pocock](https://twitter.com/mattpocockuk), [Titian Cernicova Dragomir](https://twitter.com/TitianCernicova) - TypeScript
+- [Dan Abramov](https://twitter.com/dan_abramov), [Kent Dodds](https://twitter.com/kentcdodds/), [Sebastian Markbage](https://x.com/sebmarkbage) - React
+- [Matthieu Riegler](https://twitter.com/Jean__Meche), [Enea Jaholari](https://twitter.com/Enea_Jahollari), [Michal Hladky](https://twitter.com/Michael_Hladky) - Angular
 - [Max Koretskiy](https://twitter.com/maxkoretskyi) - Frameworks in-depth
 - and [me](https://twitter.com/tomasz_ducin) 😇
 
