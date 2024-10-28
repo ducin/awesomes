@@ -109,6 +109,8 @@ My personal list of valuable resources and people to follow:
   - high-level comparison of frontend frameworks internals
 - [_Tomasz Ducin: The many meanings of Inversion of Control (IoC) in JavaScript_](https://www.youtube.com/watch?v=grF-BVK1vzM)
   - IoC as an approach, problems solved & various implementations in JavaScript
+- [_Sebastian Markbage: Minimal API Surface Area_](https://www.youtube.com/watch?v=4anAwXYqLG8)
+  - API Design behind React (2014, but still relevant)
 - [_Ben Holmes: React server components from scratch!_](https://www.youtube.com/watch?v=MaebEqhZR84)
 - [_Delba Oliveira: React visually explained: 'use client'_](https://www.youtube.com/watch?v=eO51VVCpTk0)
 
