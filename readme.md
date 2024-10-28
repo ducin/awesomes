@@ -44,11 +44,12 @@ My personal list of valuable resources and people to follow:
 - [Sarah Drasner](https://twitter.com/sarah_edo) - Frontend, Management
 - [Guillermo Rauch](https://twitter.com/rauchg) - React/Node, Cloud, SSR
 - [Matteo Collina](https://twitter.com/matteocollina) - Node.js, Performance
+- [Ryan Carniato](https://x.com/RyanCarniato) - Signals, Reactivity
 - [Anders Hejlsberg](https://twitter.com/ahejlsberg) - Compilers
 - [Ryan Cavanaugh](https://twitter.com/SeaRyanC), [Matt Pocock](https://twitter.com/mattpocockuk), [Titian Cernicova Dragomir](https://twitter.com/TitianCernicova) - TypeScript
 - [Dan Abramov](https://twitter.com/dan_abramov), [Kent Dodds](https://twitter.com/kentcdodds/), [Sebastian Markbage](https://x.com/sebmarkbage) - React
-- [Matthieu Riegler](https://twitter.com/Jean__Meche), [Enea Jaholari](https://twitter.com/Enea_Jahollari), [Michal Hladky](https://twitter.com/Michael_Hladky) - Angular
-- [Max Koretskiy](https://twitter.com/maxkoretskyi) - Frameworks in-depth
+- [Alex Rickabaugh](https://x.com/synalx), [Matthieu Riegler](https://twitter.com/Jean__Meche), [Enea Jaholari](https://twitter.com/Enea_Jahollari), [Michal Hladky](https://twitter.com/Michael_Hladky) - Angular
+- [Max Koretskiy](https://twitter.com/maxkoretskyi), [Ben Holmes](https://x.com/BHolmesDev), [Jack Herrington](https://x.com/jherr) - Frameworks in-depth
 - and [me](https://twitter.com/tomasz_ducin) 😇
 
 # books
@@ -82,6 +83,7 @@ My personal list of valuable resources and people to follow:
 - [_Greg Young: The Long Sad History of MicroServices TM_](https://www.youtube.com/watch?v=MjIfWe6bn40&t=584s)
 - [_Sam Newman: You Keep Using That Word_](https://www.youtube.com/watch?v=rZxIzrjvSGg)
 - [_Daniel Terhorst-North: The Best Programmer I Know_](https://www.youtube.com/watch?v=tgaKAF_eiOg)
+- [_Greg Young: The art of destroying software_](https://www.youtube.com/watch?v=Ed94CfxgsCA)
 
 ## frontend
 
