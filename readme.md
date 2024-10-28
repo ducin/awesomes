@@ -119,3 +119,5 @@ and last but not least, [️️⚡️ WAT ⚡️](https://www.destroyallsoftware
 - [Goto Conferences](https://www.youtube.com/@GOTO-)
 - [Better Software Design - 🇵🇱 only](https://bettersoftwaredesign.pl/)
 - [Architecture Weekly Newsletter](https://www.architecture-weekly.com/)
+- [C4 model](https://c4model.com/), [Structurizr](https://www.structurizr.com/)
+- [programming principles](https://github.com/webpro/programming-principles)
