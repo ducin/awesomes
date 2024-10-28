@@ -84,11 +84,13 @@ My personal list of valuable resources and people to follow:
 - [_Alberto Brandolini: Event Storming_](https://www.youtube.com/watch?v=mLXQIYEwK24)
 - [_Greg Young: The Long Sad History of MicroServices TM_](https://www.youtube.com/watch?v=MjIfWe6bn40&t=584s)
 - [_Sam Newman: You Keep Using That Word_](https://www.youtube.com/watch?v=rZxIzrjvSGg)
-- [_Daniel Terhorst-North: The Best Programmer I Know_](https://www.youtube.com/watch?v=tgaKAF_eiOg)
-- [_Greg Young: The art of destroying software_](https://www.youtube.com/watch?v=Ed94CfxgsCA)
+- [_Tammer Saleh: MicroServices Antipatterns_](https://www.infoq.com/presentations/cloud-anti-patterns/)
+- [_Matthew Skelton, Manuel Pais: Monoliths vs Microservices is Missing the Point — Start with Team Cognitive Load_](https://www.youtube.com/watch?v=haejb5rzKsM)
 
 ## principles
 
+- [_Daniel Terhorst-North: The Best Programmer I Know_](https://www.youtube.com/watch?v=tgaKAF_eiOg)
+- [_Greg Young: The art of destroying software_](https://www.youtube.com/watch?v=Ed94CfxgsCA)
 - [_Sandi Metz: Polly Want a Message_](https://www.youtube.com/watch?v=YtROlyWWhV0)
 - [_Sandi Metz: All the Little Things_](https://www.youtube.com/watch?v=8bZh5LMaSmE)
 - [_Kevlin Henney_: #FAIL](https://www.youtube.com/watch?v=6xrGo1IIB3w)
@@ -129,4 +131,10 @@ and last but not least, [️️⚡️ WAT ⚡️](https://www.destroyallsoftware
 - [Better Software Design - 🇵🇱 only](https://bettersoftwaredesign.pl/)
 - [Architecture Weekly Newsletter](https://www.architecture-weekly.com/)
 - [C4 model](https://c4model.com/), [Structurizr](https://www.structurizr.com/)
-- [programming principles](https://github.com/webpro/programming-principles)
+- [DORA](https://dora.dev/)
+- blogs, other awesomes
+  - [event storming](https://github.com/mariuszgil/awesome-eventstorming)
+  - [event-driven.io](https://event-driven.io/en/category/)
+  - [programming principles](https://github.com/webpro/programming-principles)
+- others
+  - [Falsehoods programmers believe about time](https://gist.github.com/timvisee/fcda9bbdff88d45cc9061606b4b923ca)
