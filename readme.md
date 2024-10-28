@@ -34,6 +34,7 @@ My personal list of valuable resources and people to follow:
 - [Michael Nygard](https://twitter.com/mtnygard) - Software Practices
 - [Dan North](https://twitter.com/tastapod) - BDD, Agile
 - [Sandi Metz](https://x.com/sandimetz) - OOP, ruby
+- [Vlad Khononov](https://x.com/vladikk) - DDD, Software Design
 - [Bartłomiej Słota](https://twitter.com/bartekslota) - DDD, Architecture
 - [Oskar Dudycz](https://www.linkedin.com/in/oskardudycz) - Event Sourcing, Event-driven Architecture
 - [Maciej MJ Jędrzejewski](https://www.linkedin.com/in/jedrzejewski-maciej/) - Architecture
