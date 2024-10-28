@@ -33,6 +33,7 @@ My personal list of valuable resources and people to follow:
 - [Venkat Subramaniam](https://twitter.com/venkat_s) - Software Design
 - [Michael Nygard](https://twitter.com/mtnygard) - Software Practices
 - [Dan North](https://twitter.com/tastapod) - BDD, Agile
+- [Sandi Metz](https://x.com/sandimetz) - OOP, ruby
 - [Bartłomiej Słota](https://twitter.com/bartekslota) - DDD, Architecture
 - [Oskar Dudycz](https://www.linkedin.com/in/oskardudycz) - Event Sourcing, Event-driven Architecture
 - [Maciej MJ Jędrzejewski](https://www.linkedin.com/in/jedrzejewski-maciej/) - Architecture
@@ -85,6 +86,13 @@ My personal list of valuable resources and people to follow:
 - [_Daniel Terhorst-North: The Best Programmer I Know_](https://www.youtube.com/watch?v=tgaKAF_eiOg)
 - [_Greg Young: The art of destroying software_](https://www.youtube.com/watch?v=Ed94CfxgsCA)
 
+## principles
+
+- [_Sandi Metz: Polly Want a Message_](https://www.youtube.com/watch?v=YtROlyWWhV0)
+- [_Sandi Metz: All the Little Things_](https://www.youtube.com/watch?v=8bZh5LMaSmE)
+- [_Kevlin Henney_: #FAIL](https://www.youtube.com/watch?v=6xrGo1IIB3w)
+- [_Kris Kowal: A General Theory of Reactivity_](https://www.youtube.com/watch?v=2p51PE1MZ8U), see also [A General Theory of Reactivity (essay)](https://github.com/kriskowal/gtor)
+
 ## frontend
 
 - [_Vyacheslav Egorov: JavaScript Performance Through the Spyglass_](https://www.youtube.com/watch?v=r76ZjdzFExg)
@@ -103,8 +111,6 @@ My personal list of valuable resources and people to follow:
   - State Machines in UIs
 - [_Maxim Koretskyi: A sneak peek into super optimized code in JS frameworks_](https://www.youtube.com/watch?v=_VHNTC67NR8)
   - low-level optimizations in JS frameworks (including object shapes)
-- [_Kris Kowal: A General Theory of Reactivity_](https://www.youtube.com/watch?v=2p51PE1MZ8U)
-  - high-level description of reactivity, [A General Theory of Reactivity (essay)](https://github.com/kriskowal/gtor)
 - [_Tomasz Ducin: Architect's Guide to Frontend Frameworks_](https://www.youtube.com/watch?v=HI2vFGxiwkM)
   - high-level comparison of frontend frameworks internals
 - [_Tomasz Ducin: The many meanings of Inversion of Control (IoC) in JavaScript_](https://www.youtube.com/watch?v=grF-BVK1vzM)
