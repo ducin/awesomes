@@ -47,6 +47,7 @@ My personal list of valuable resources and people to follow:
 - [Guillermo Rauch](https://twitter.com/rauchg) - React/Node, Cloud, SSR
 - [Matteo Collina](https://twitter.com/matteocollina) - Node.js, Performance
 - [Ryan Carniato](https://x.com/RyanCarniato) - Signals, Reactivity
+- [Dominik Dorfmeister](https://x.com/TkDodo) - Tanstack/React Query, API Design, Frontend State Management
 - [Anders Hejlsberg](https://twitter.com/ahejlsberg) - Compilers
 - [Ryan Cavanaugh](https://twitter.com/SeaRyanC), [Matt Pocock](https://twitter.com/mattpocockuk), [Titian Cernicova Dragomir](https://twitter.com/TitianCernicova) - TypeScript
 - [Dan Abramov](https://twitter.com/dan_abramov), [Kent Dodds](https://twitter.com/kentcdodds/), [Sebastian Markbage](https://x.com/sebmarkbage) - React
