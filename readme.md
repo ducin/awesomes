@@ -87,6 +87,7 @@ My personal list of valuable resources and people to follow:
 - [_Sam Newman: You Keep Using That Word_](https://www.youtube.com/watch?v=rZxIzrjvSGg)
 - [_Tammer Saleh: MicroServices Antipatterns_](https://www.infoq.com/presentations/cloud-anti-patterns/)
 - [_Matthew Skelton, Manuel Pais: Monoliths vs Microservices is Missing the Point — Start with Team Cognitive Load_](https://www.youtube.com/watch?v=haejb5rzKsM)
+- [_Gregor Hohpe: I Made Everything Loosely Coupled. Does My App Fall Apart?_](https://www.youtube.com/watch?v=w9a7eI6BlVc)
 
 ## principles
 
