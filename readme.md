@@ -6,9 +6,9 @@ My personal list of valuable resources and people to follow:
 - [people](#people)
 - [books](#books)
 - [videos](#videos)
-	- [architecture](#architecture)
-	- [principles](#principles)
-	- [frontend](#frontend)
+  - [architecture](#architecture)
+  - [principles](#principles)
+  - [frontend](#frontend)
 - [bluesky](#bluesky)
 - [other resources](#other-resources)
 
@@ -148,8 +148,12 @@ and last but not least, [️️⚡️ WAT ⚡️](https://www.destroyallsoftware
 - [Architecture Weekly Newsletter](https://www.architecture-weekly.com/)
 - [C4 model](https://c4model.com/), [Structurizr](https://www.structurizr.com/)
 - [DORA](https://dora.dev/)
-- blogs, other awesomes
-  - [event storming](https://github.com/mariuszgil/awesome-eventstorming)
+- other awesomes
+  - [Awesome DDD](https://github.com/heynickc/awesome-ddd)
+  - [Awesome Event-Driven Architecture](https://github.com/lutzh/awesome-event-driven-architecture)
+  - [Awesome Domain Modeling](https://github.com/gquemener/awesome-domain-modeling)
+  - [Awesome EventStorming](https://github.com/mariuszgil/awesome-eventstorming)
+- blogs
   - [event-driven.io](https://event-driven.io/en/category/)
   - [programming principles](https://github.com/webpro/programming-principles)
 - others
