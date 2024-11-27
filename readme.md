@@ -16,49 +16,51 @@ My personal list of valuable resources and people to follow:
 
 # people
 
-- [Martin Fowler](https://martinfowler.com/bliki/) - Software Architecture and Design
+- [Martin Fowler](https://bsky.app/profile/martinfowler.com), [bliki](https://bsky.app/profile/martinfowler.com) - Software Architecture and Design
 - [Mark Seemann](https://twitter.com/ploeh), [blog](https://blog.ploeh.dk)
-- [Mathias Verraes](https://twitter.com/mathiasverraes) - Architecture
+- [Mathias Verraes](https://bsky.app/profile/mathiasverraes.bsky.social) - Architecture
 - [Greg Young](https://twitter.com/gregyoung) - CQRS, ES, Architecture
-- [Kevlin Henney](https://twitter.com/KevlinHenney) - Software Design
-- [Udi Dahan](https://twitter.com/UdiDahan) - DDD, .Net
+- [Kevlin Henney](https://bsky.app/profile/kevlin.bsky.social) - Software Design
+- [Udi Dahan](https://bsky.app/profile/udidahan.com) - DDD, .Net
 - [Sam Newmann](https://twitter.com/samnewman) - MicroServices
 - [Michael Feathers](https://twitter.com/mfeathers) - Software Design, Working with Legacy
-- [Daniel Bryant](https://twitter.com/danielbryantuk) - MicroServices, DevOps, Cloud
-- [Simon Brown](https://twitter.com/simonbrown) - C4, Architecture
-- [Eric Evans](https://twitter.com/ericevans0) - DDD
-- [Vaugn Vernon](https://twitter.com/VaughnVernon) - DDD
-- [Luca Mezzalira](https://twitter.com/lucamezzalira) - MicroFrontends, Cloud
-- [Vlad Khononov](https://www.linkedin.com/in/vladikk/) - Software Design
+- [Daniel Bryant](https://bsky.app/profile/danielbryantuk.com) - MicroServices, DevOps, Cloud
+- [Simon Brown](https://bsky.app/profile/simonbrown.je) - C4, Architecture
+- [Eric Evans](https://bsky.app/profile/ericevans0.bsky.social) - DDD
+- [Vaughn Vernon](https://bsky.app/profile/vaughnvernon.bsky.social) - DDD
+- [Luca Mezzalira](https://www.linkedin.com/in/lucamezzalira) - MicroFrontends, Cloud
+- [Vlad Khononov](https://bsky.app/profile/vladikk.bsky.social/) - Software Design, DDD
 - [Dino Esposito](https://twitter.com/despos) - .Net, Software Design
-- [Alberto Brandolini](https://twitter.com/ziobrando) - Event Storming
-- [Kelsey Hightower](https://twitter.com/kelseyhightower) - Kubernetes, Cloud
-- [Jimmy Boggard](https://twitter.com/jbogard) - Architecture
+- [Alberto Brandolini](https://bsky.app/profile/ziobrando.bsky.social) - Event Storming
+- [Kelsey Hightower](https://bsky.app/profile/kelseyhightower.com) - Kubernetes, Cloud
+- [Jimmy Boggard](https://bsky.app/profile/jimmybogard.com) - Architecture
 - [Tomasz Nurkiewicz](https://twitter.com/tnurkiewicz) - Reactive, Java
-- [Venkat Subramaniam](https://twitter.com/venkat_s) - Software Design
+- [Venkat Subramaniam](https://bsky.app/profile/venkats.bsky.social) - Software Design
+- [Michael Plöd](https://bsky.app/profile/bitboss.bsky.social) - DDD
 - [Michael Nygard](https://twitter.com/mtnygard) - Software Practices
-- [Dan North](https://twitter.com/tastapod) - BDD, Agile
-- [Sandi Metz](https://x.com/sandimetz) - OOP, ruby
-- [Vlad Khononov](https://x.com/vladikk) - DDD, Software Design
-- [Bartłomiej Słota](https://twitter.com/bartekslota) - DDD, Architecture
+- [Dan North](https://www.linkedin.com/in/tastapod) - BDD, Agile
+- [Sandi Metz](https://bsky.app/profile/sandimetz.bsky.social) - OOP, ruby
+- [Nick Tune](https://bsky.app/profile/nick-tune.me) - DDD, Software Design
+- [Chris Richardson](https://bsky.app/profile/crichardson.bsky.social) - Nicroservices
+- [Bartłomiej Słota](https://www.linkedin.com/in/bslota/) - DDD, Architecture
 - [Oskar Dudycz](https://www.linkedin.com/in/oskardudycz) - Event Sourcing, Event-driven Architecture
 - [Maciej MJ Jędrzejewski](https://www.linkedin.com/in/jedrzejewski-maciej/) - Architecture
 - [Jakub Nabrdalik](https://twitter.com/jnabrdalik) - Microservices, Architecture
 - [Mariusz Gil](https://www.linkedin.com/in/mariuszgil) - Event Storming, DDD
-- [Bartosz Milewski](https://twitter.com/BartoszMilewski) - FP, Category Theory
-- [André Staltz](https://twitter.com/andrestaltz) - Reactivity
-- [Rich Harris](https://twitter.com/Rich_Harris) - Reactivity, Svelte
-- [Sarah Drasner](https://twitter.com/sarah_edo) - Frontend, Management
-- [Guillermo Rauch](https://twitter.com/rauchg) - React/Node, Cloud, SSR
-- [Matteo Collina](https://twitter.com/matteocollina) - Node.js, Performance
-- [Ryan Carniato](https://x.com/RyanCarniato) - Signals, Reactivity
-- [Dominik Dorfmeister](https://x.com/TkDodo) - Tanstack/React Query, API Design, Frontend State Management
+- [Bartosz Milewski](https://bsky.app/profile/bartoszmilewski.bsky.social) - FP, Category Theory
+- [André Staltz](https://bsky.app/profile/staltz.com) - Reactivity
+- [Rich Harris](https://bsky.app/profile/rich-harris.dev) - Reactivity, Svelte
+- [Sarah Drasner](https://bsky.app/profile/sarahedo.bsky.social) - Frontend, Management
+- [Guillermo Rauch](https://bsky.app/profile/rauchg.blue) - React/Node, Cloud, SSR
+- [Matteo Collina](https://bsky.app/profile/nodeland.dev) - Node.js, Performance
+- [Ryan Carniato](https://bsky.app/profile/ryansolid.bsky.social) - Signals, Reactivity
+- [Dominik Dorfmeister](https://bsky.app/profile/tkdodo.eu) - Tanstack/React Query, API Design, Frontend State Management
 - [Anders Hejlsberg](https://twitter.com/ahejlsberg) - Compilers
-- [Ryan Cavanaugh](https://twitter.com/SeaRyanC), [Matt Pocock](https://twitter.com/mattpocockuk), [Titian Cernicova Dragomir](https://twitter.com/TitianCernicova) - TypeScript
-- [Dan Abramov](https://twitter.com/dan_abramov), [Kent Dodds](https://twitter.com/kentcdodds/), [Sebastian Markbage](https://x.com/sebmarkbage) - React
-- [Alex Rickabaugh](https://x.com/synalx), [Matthieu Riegler](https://twitter.com/Jean__Meche), [Enea Jaholari](https://twitter.com/Enea_Jahollari), [Michal Hladky](https://twitter.com/Michael_Hladky) - Angular
-- [Max Koretskiy](https://twitter.com/maxkoretskyi), [Ben Holmes](https://x.com/BHolmesDev), [Jack Herrington](https://x.com/jherr) - Frameworks in-depth
-- and [me](https://twitter.com/tomasz_ducin) 😇
+- [Ryan Cavanaugh](https://bsky.app/profile/searyanc.dev), [Matt Pocock](https://bsky.app/profile/mattpocock.com), [Titian Cernicova Dragomir](https://bsky.app/profile/titiancernicova.bsky.social) - TypeScript
+- [Dan Abramov](https://bsky.app/profile/danabra.mov), [Kent Dodds](https://bsky.app/profile/kentcdodds.com), [Sebastian Markbage](https://bsky.app/profile/sebmarkbage.calyptus.eu) - React
+- [Alex Rickabaugh](https://bsky.app/profile/synalx.bsky.social), [Matthieu Riegler](https://bsky.app/profile/jeanmeche.com), [Enea Jaholari](https://bsky.app/profile/eneajaho.me), [Michal Hladky](https://bsky.app/profile/michael-hladky.bsky.social) - Angular
+- [Max Koretskiy](https://twitter.com/maxkoretskyi), [Ben Holmes](https://bsky.app/profile/bholmes.dev), [Jack Herrington](https://bsky.app/profile/jherr.dev) - Frameworks in-depth
+- and [me](https://bsky.app/profile/ducin.dev) 😇
 
 # books
 
