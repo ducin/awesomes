@@ -2,9 +2,14 @@
 
 My personal list of valuable resources and people to follow:
 
+- [Awesomes](#awesomes)
 - [people](#people)
 - [books](#books)
 - [videos](#videos)
+	- [architecture](#architecture)
+	- [principles](#principles)
+	- [frontend](#frontend)
+- [bluesky](#bluesky)
 - [other resources](#other-resources)
 
 ----
@@ -126,6 +131,13 @@ My personal list of valuable resources and people to follow:
 - [_Delba Oliveira: React visually explained: 'use client'_](https://www.youtube.com/watch?v=eO51VVCpTk0)
 
 and last but not least, [️️⚡️ WAT ⚡️](https://www.destroyallsoftware.com/talks/wat)
+
+# bluesky
+
+- [*Software Architecture & Design* starter pack](https://bsky.app/starter-pack/tekiegirl.bsky.social/3lbwidgq4c22z)
+- [DDD (domain driven design) list](https://bsky.app/profile/nick-tune.me/lists/3l7y76qe5vz2u)
+- [*Awesome Frontend* list](https://bsky.app/profile/ducin.dev/lists/3lbpwn7cznt2r)
+- [*Polish devs* starter pack](https://bsky.app/starter-pack/ducin.dev/3lbej7nstyo2x)
 
 # other resources
 
