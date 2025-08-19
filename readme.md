@@ -17,7 +17,7 @@ My personal list of valuable resources and people to follow:
 # people
 
 - [Martin Fowler](https://bsky.app/profile/martinfowler.com), [bliki](https://bsky.app/profile/martinfowler.com) - Software Architecture and Design
-- [Mark Seemann](https://twitter.com/ploeh), [blog](https://blog.ploeh.dk)
+- [Oskar Dudycz](https://www.linkedin.com/in/oskardudycz) - Event Sourcing, Event-driven Architecture, Architecture in general
 - [Mathias Verraes](https://bsky.app/profile/mathiasverraes.bsky.social) - Architecture
 - [Greg Young](https://twitter.com/gregyoung) - CQRS, ES, Architecture
 - [Gregor Hohpe](https://www.linkedin.com/in/ghohpe) - Architecture
@@ -39,16 +39,15 @@ My personal list of valuable resources and people to follow:
 - [Jimmy Boggard](https://bsky.app/profile/jimmybogard.com) - Architecture
 - [Daniel Bryant](https://bsky.app/profile/danielbryantuk.com) - MicroServices, DevOps, Cloud
 - [Simon Brown](https://bsky.app/profile/simonbrown.je) - C4, Architecture
-- [Tomasz Nurkiewicz](https://twitter.com/tnurkiewicz) - Reactive, Java
-- [Venkat Subramaniam](https://bsky.app/profile/venkats.bsky.social) - Software Design
+- [Mark Seemann](https://twitter.com/ploeh), [blog](https://blog.ploeh.dk)
 - [Sandi Metz](https://bsky.app/profile/sandimetz.bsky.social) - OOP, ruby
 - [Nick Tune](https://bsky.app/profile/nick-tune.me) - DDD, Software Design
 - [Chris Richardson](https://bsky.app/profile/crichardson.bsky.social) - Nicroservices
 - [Bartłomiej Słota](https://www.linkedin.com/in/bslota/) - DDD, Architecture
-- [Oskar Dudycz](https://www.linkedin.com/in/oskardudycz) - Event Sourcing, Event-driven Architecture
 - [Maciej MJ Jędrzejewski](https://www.linkedin.com/in/jedrzejewski-maciej/) - Architecture
 - [Jakub Nabrdalik](https://twitter.com/jnabrdalik) - Microservices, Architecture
 - [Mariusz Gil](https://www.linkedin.com/in/mariuszgil) - Event Storming, DDD
+- [Tomasz Nurkiewicz](https://twitter.com/tnurkiewicz) - Reactive, Java
 - [Bartosz Milewski](https://bsky.app/profile/bartoszmilewski.bsky.social) - FP, Category Theory
 - [Rich Harris](https://bsky.app/profile/rich-harris.dev) - Reactivity, Svelte
 - [Sarah Drasner](https://bsky.app/profile/sarahedo.bsky.social) - Frontend, Management
