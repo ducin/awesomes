@@ -20,12 +20,15 @@ My personal list of valuable resources and people to follow:
 - [Mark Seemann](https://twitter.com/ploeh), [blog](https://blog.ploeh.dk)
 - [Mathias Verraes](https://bsky.app/profile/mathiasverraes.bsky.social) - Architecture
 - [Greg Young](https://twitter.com/gregyoung) - CQRS, ES, Architecture
+- [Gregor Hohpe](https://www.linkedin.com/in/ghohpe) - Architecture
 - [Kevlin Henney](https://bsky.app/profile/kevlin.bsky.social) - Software Design
 - [Udi Dahan](https://bsky.app/profile/udidahan.com) - DDD, .Net
 - [Sam Newmann](https://twitter.com/samnewman) - MicroServices
 - [Michael Feathers](https://twitter.com/mfeathers) - Software Design, Working with Legacy
-- [Daniel Bryant](https://bsky.app/profile/danielbryantuk.com) - MicroServices, DevOps, Cloud
-- [Simon Brown](https://bsky.app/profile/simonbrown.je) - C4, Architecture
+- [Laïla Bougriâ ](https://www.linkedin.com/in/lailabougria) - Architecture
+- [Michael Plöd](https://bsky.app/profile/bitboss.bsky.social) - DDD
+- [Michael Nygard](https://twitter.com/mtnygard) - Software Practices
+- [Dan North](https://www.linkedin.com/in/tastapod) - BDD, Agile
 - [Eric Evans](https://bsky.app/profile/ericevans0.bsky.social) - DDD
 - [Vaughn Vernon](https://bsky.app/profile/vaughnvernon.bsky.social) - DDD
 - [Luca Mezzalira](https://www.linkedin.com/in/lucamezzalira) - MicroFrontends, Cloud
@@ -34,11 +37,10 @@ My personal list of valuable resources and people to follow:
 - [Alberto Brandolini](https://bsky.app/profile/ziobrando.bsky.social) - Event Storming
 - [Kelsey Hightower](https://bsky.app/profile/kelseyhightower.com) - Kubernetes, Cloud
 - [Jimmy Boggard](https://bsky.app/profile/jimmybogard.com) - Architecture
+- [Daniel Bryant](https://bsky.app/profile/danielbryantuk.com) - MicroServices, DevOps, Cloud
+- [Simon Brown](https://bsky.app/profile/simonbrown.je) - C4, Architecture
 - [Tomasz Nurkiewicz](https://twitter.com/tnurkiewicz) - Reactive, Java
 - [Venkat Subramaniam](https://bsky.app/profile/venkats.bsky.social) - Software Design
-- [Michael Plöd](https://bsky.app/profile/bitboss.bsky.social) - DDD
-- [Michael Nygard](https://twitter.com/mtnygard) - Software Practices
-- [Dan North](https://www.linkedin.com/in/tastapod) - BDD, Agile
 - [Sandi Metz](https://bsky.app/profile/sandimetz.bsky.social) - OOP, ruby
 - [Nick Tune](https://bsky.app/profile/nick-tune.me) - DDD, Software Design
 - [Chris Richardson](https://bsky.app/profile/crichardson.bsky.social) - Nicroservices
@@ -48,7 +50,6 @@ My personal list of valuable resources and people to follow:
 - [Jakub Nabrdalik](https://twitter.com/jnabrdalik) - Microservices, Architecture
 - [Mariusz Gil](https://www.linkedin.com/in/mariuszgil) - Event Storming, DDD
 - [Bartosz Milewski](https://bsky.app/profile/bartoszmilewski.bsky.social) - FP, Category Theory
-- [André Staltz](https://bsky.app/profile/staltz.com) - Reactivity
 - [Rich Harris](https://bsky.app/profile/rich-harris.dev) - Reactivity, Svelte
 - [Sarah Drasner](https://bsky.app/profile/sarahedo.bsky.social) - Frontend, Management
 - [Guillermo Rauch](https://bsky.app/profile/rauchg.blue) - React/Node, Cloud, SSR
@@ -60,12 +61,14 @@ My personal list of valuable resources and people to follow:
 - [Dan Abramov](https://bsky.app/profile/danabra.mov), [Kent Dodds](https://bsky.app/profile/kentcdodds.com), [Sebastian Markbage](https://bsky.app/profile/sebmarkbage.calyptus.eu) - React
 - [Alex Rickabaugh](https://bsky.app/profile/synalx.bsky.social), [Matthieu Riegler](https://bsky.app/profile/jeanmeche.com), [Enea Jaholari](https://bsky.app/profile/eneajaho.me), [Michal Hladky](https://bsky.app/profile/michael-hladky.bsky.social) - Angular
 - [Max Koretskiy](https://twitter.com/maxkoretskyi), [Ben Holmes](https://bsky.app/profile/bholmes.dev), [Jack Herrington](https://bsky.app/profile/jherr.dev) - Frameworks in-depth
+- [André Staltz](https://bsky.app/profile/staltz.com) - Reactivity
 - and [me](https://bsky.app/profile/ducin.dev) 😇
 
 # books
 
 - [_Software Architecture for Developers - Simon Brown_](https://leanpub.com/software-architecture-for-developers)
 - [_Fundamentals of Software Architecture: An Engineering Approach - Neal Ford, Mark Richards_](https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451)
+- [_Enterprise Patterns and MDA: Building Better Software with Archetype Patterns and UML_](https://www.amazon.pl/Enterprise-Patterns-MDA-Building-Archetype/dp/032111230X)
 - [_Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures - Neal Ford, Mark Richards__](https://www.amazon.com/Software-Architecture-Trade-Off-Distributed-Architectures/dp/1492086894)
 - [_Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith - Sam Newman_](https://www.amazon.com/Monolith-Microservices-Evolutionary-Patterns-Transform/dp/1492047848)
 - [_Building Microservices - Sam Newman_](https://www.amazon.pl/Building-Microservices-Sam-Newman/dp/1491950358)
@@ -76,6 +79,8 @@ My personal list of valuable resources and people to follow:
 - [_Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems - Martin Kleppmann_](https://www.amazon.pl/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 - [_Team Topologies: Organizing Business and Technology Teams for Fast Flow - Matthew Skelton, Manuel Pais_](https://www.amazon.com/gp/product/1942788819/ref=ewc_pr_img_2?smid=ATVPDKIKX0DER&psc=1)
 - [_Engineering Management for the Rest of Us - Sarah Drasner_](https://www.amazon.com/gp/product/B0BHX6NLGZ/ref=ewc_pr_img_6?smid=ATVPDKIKX0DER&psc=1)
+
+PS buy ["_humble bundle (software architecture)_"](https://www.humblebundle.com/books/software-architecture-2025-oreilly-books) when it's available
 
 # videos
 
