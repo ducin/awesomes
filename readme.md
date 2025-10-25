@@ -9,7 +9,6 @@ My personal list of valuable resources and people to follow:
   - [architecture](#architecture)
   - [principles](#principles)
   - [frontend](#frontend)
-- [bluesky](#bluesky)
 - [other resources](#other-resources)
 
 ----
