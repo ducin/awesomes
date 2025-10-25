@@ -142,13 +142,6 @@ PS buy ["_humble bundle (software architecture)_"](https://www.humblebundle.com/
 
 and last but not least, [️️⚡️ WAT ⚡️](https://www.destroyallsoftware.com/talks/wat)
 
-# bluesky
-
-- [*Software Architecture & Design* starter pack](https://bsky.app/starter-pack/tekiegirl.bsky.social/3lbwidgq4c22z)
-- [DDD (domain driven design) list](https://bsky.app/profile/nick-tune.me/lists/3l7y76qe5vz2u)
-- [*Awesome Frontend* list](https://bsky.app/profile/ducin.dev/lists/3lbpwn7cznt2r)
-- [*Polish devs* starter pack](https://bsky.app/starter-pack/ducin.dev/3lbej7nstyo2x)
-
 # other resources
 
 - [Goto Conferences](https://www.youtube.com/@GOTO-)
@@ -161,8 +154,15 @@ and last but not least, [️️⚡️ WAT ⚡️](https://www.destroyallsoftware
   - [Awesome Event-Driven Architecture](https://github.com/lutzh/awesome-event-driven-architecture)
   - [Awesome Domain Modeling](https://github.com/gquemener/awesome-domain-modeling)
   - [Awesome EventStorming](https://github.com/mariuszgil/awesome-eventstorming)
+- communities
+  - [Order Of Devs - 🇵🇱 only](https://discord.com/invite/order-of-devs-871795158608404530)
 - blogs
   - [event-driven.io](https://event-driven.io/en/category/)
   - [programming principles](https://github.com/webpro/programming-principles)
+- bluesky
+  - [*Software Architecture & Design* starter pack](https://bsky.app/starter-pack/tekiegirl.bsky.social/3lbwidgq4c22z)
+  - [DDD (domain driven design) list](https://bsky.app/profile/nick-tune.me/lists/3l7y76qe5vz2u)
+  - [*Awesome Frontend* list](https://bsky.app/profile/ducin.dev/lists/3lbpwn7cznt2r)
+  - [*Polish devs* starter pack](https://bsky.app/starter-pack/ducin.dev/3lbej7nstyo2x)
 - others
   - [Falsehoods programmers believe about time](https://gist.github.com/timvisee/fcda9bbdff88d45cc9061606b4b923ca)
