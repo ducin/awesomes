@@ -48,6 +48,10 @@ My personal list of valuable resources and people to follow:
 - [Jakub Nabrdalik](https://twitter.com/jnabrdalik) - Microservices, Architecture
 - [Mariusz Gil](https://www.linkedin.com/in/mariuszgil) - Event Storming, DDD
 - [Tomasz Nurkiewicz](https://twitter.com/tnurkiewicz) - Reactive, Java
+- [Łukasz Kałużny](https://www.linkedin.com/in/lukaszkaluzny) - Architecture, AI
+- [Mateusz Kubaszek](linkedin.com/in/🧙-mateusz-kubaszek-58306466) - Architecture, AI
+- [Iwo Zmyślony](https://www.linkedin.com/in/iwozmyslony/) - AI
+- [Tomasz Zgliczynski-Cuber](https://www.linkedin.com/in/cuber/) - AI
 - [Bartosz Milewski](https://bsky.app/profile/bartoszmilewski.bsky.social) - FP, Category Theory
 - [Rich Harris](https://bsky.app/profile/rich-harris.dev) - Reactivity, Svelte
 - [Sarah Drasner](https://bsky.app/profile/sarahedo.bsky.social) - Frontend, Management
